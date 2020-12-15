@@ -12,7 +12,7 @@ The CommunityToolKit DataGrid displays and is scrollable in UWP In WinUI3 Previe
 
 **Steps to reproduce the bug**
 
-1. Clone [WinUI3Preview3 Problems DataGrid repository](https://github.com/eleanorleffler/WinUI3Preview3_Problems_DataGrid).
+1. Clone the repository.
 2. Go to the DataGridWinUIPreview3 folder.
 3. Open the DataGridWinUIPreview3 solution in Visual Studio 2019 Preview.
 3. Build and run with Debug x64.
@@ -24,7 +24,11 @@ We expect the DataGrid to be scrollable when window is unable to display all of 
 
 **Screenshots**
 
+![DataGridCurrentBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_DataGrid/blob/main/Screenshots/CurrentBehavior.PNG)
+
 Screenshot#1 - Current Behavior
+
+![DataGridCurrentBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_DataGrid/blob/main/Screenshots/ExpectedBehavior.PNG)
 
 Screenshot#2 - Expected Behavior
 
